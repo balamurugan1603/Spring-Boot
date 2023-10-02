@@ -1,4 +1,4 @@
-package com.ecommerce.recommendationsystem.beanmanagement;
+package com.ecommerce.recommendationsystem.beanscope;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
